@@ -1,0 +1,96 @@
+{
+    "locales": {
+        "en": {
+            "title": "Education",
+            "title_long_prefix": "This is my",
+            "title_long": "**Educational** Background"
+        },
+
+        "gr": {
+            "title": "Ausbildung",
+            "title_long_prefix": "Das ist mein",
+            "title_long": "**Ausbildung**"
+        },
+
+        "ja": {
+            "title": "教育",
+            "title_long_prefix": "これは私の",
+            "title_long": "**教育** の経歴"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "academic",
+            "component": "ArticleTimeline",
+            "config": {},
+            "locales": {},
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/pictures/place-5.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2016",
+                        "end": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Bachelor** in Computer Software Engineering",
+                            "info": "Osaka University",
+                            "text": "Key Courses: Full-Stack Web Development, Data Structures, Algorithms, Mobile App Development",
+                            "tags": ["Full-Stack Web Development", "Data Structures", "Algorithms", "Mobile App Development"]
+                        },
+                        "gr": {
+                            "title": "**Bachelor** in Computer Software Engineering",
+                            "info": "Osaka University",
+                            "text": "Wichtige Kurse: Full-Stack-Webentwicklung, Datenstrukturen, Algorithmen, Entwicklung mobiler Apps",
+                            "tags": ["Full-Stack-Webentwicklung", "Datenstrukturen", "Algorithmen", "Entwicklung mobiler Apps"]
+                            },
+                        "ja": {
+                            "title": "**学士** コンピュータソフトウェア工学",
+                            "info": "大阪大学",
+                            "text": "主なコース: フルスタック Web 開発、データ構造、アルゴリズム、モバイル アプリ開発",
+                            "tags": ["フルスタック Web 開発", "データ構造", "アルゴリズム", "モバイル アプリ開発"]
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": "images/pictures/place-4.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "dates": {
+                        "start": "09/01/2018",
+                        "end": "09/01/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Master of Science** in Software Engineering",
+                            "info": "Tokyo Institute of Technology",
+                            "text": "Key Courses: Advanced Algorithms, Cloud Computing, Data Analytics, Machine Learning",
+                            "tags": ["Algorithms", "Cloud Computing", "Data Analytics", "Machine Learning"]
+                        },
+                        "gr": {
+                            "title": "**Master of Science** in Software Engineering",
+                            "info": "Tokyo Institute of Technology",
+                            "text": "Wichtige Kurse: Fortgeschrittene Algorithmen, Cloud Computing, Datenanalyse, maschinelles Lernen",
+                            "tags": ["Algorithmen", "Cloud Computing", "Datenanalyse", "maschinelles Lernen"]
+                        },
+                        "ja": {
+                            "title": "**ソフトウェア工学修士**",
+                            "info": "東京工業大学",
+                            "text": "主なコース: 高度なアルゴリズム、クラウド コンピューティング、データ分析、機械学習",
+                            "tags": ["アルゴリズム", "クラウド コンピューティング", "データ分析", "機械学習"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

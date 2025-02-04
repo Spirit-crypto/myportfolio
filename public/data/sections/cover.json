@@ -1,0 +1,326 @@
+{
+    "locales": {
+        "en": {
+            "title": "Welcome!",
+            "title_menu": "About me",
+            "title_long_prefix": "Hello...",
+            "title_long": "I'm **Yamada Fujio!**"
+        },
+
+        "gr": {
+            "title": "Willkommen!",
+            "title_menu": "Über mich",
+            "title_long_prefix": "Hallo...",
+            "title_long": "Ich bin **Yamada Fujio!**"
+        },
+
+        "ja": {
+            "title": "ようこそ！",
+            "title_menu": "私について",
+            "title_long_prefix": "こんにちは...",
+            "title_long": "私は **富士夫山田!** です。"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "ignorePaddingTop": true,
+                "format": "inline"
+            },
+            "locales": {
+                "en": {},
+                "gr": {},
+                "ja": {}
+            },
+
+            "items": [
+                {
+                    "value": "+1 (214)-329-1521",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "yamadaf146@gmail.com",
+                    "links": [
+                        {"href": "mailto:yamadaf146@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                },
+                {
+                    "value": "@phoenixdev0117",
+                    "links": [
+                        {"href": "https://github.com/phoenixdev0117"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-github",
+                        "faColors": {"bg": null, "fill": null}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "short_description",
+            "component": "ArticleInfoBlock",
+            "config": {},
+            "locales": {
+                "en": {"title": "**A little bit** about me..."},
+                "gr": {"title": "**Ein bisschen** über mich..."},
+                "ja": {"title": "**少し**私について..."}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": "images/svg/logo.svg",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"text": "<p>I’m a Full-Stack and E-Commerce Developer with extensive experience building scalable and responsive web applications. Expertise in platforms such as Shopify and WordPress, as well as mobile development using React Native, Swift, and Flutter.</p><p>Proficient in Web3.js for blockchain integration, including DEX platform development and wallet connectivity.</p><p>I look forward to collaborating <b>with you!</b></p>"},
+                        "gr": {"text": "<p>Ich bin ein Full-Stack- und E-Commerce-Entwickler mit umfassender Erfahrung in der Erstellung skalierbarer und reaktionsfähiger Webanwendungen. Expertise in Plattformen wie Shopify und WordPress sowie in der mobilen Entwicklung mit React Native, Swift und Flutter.</p><p>Kompetente Kenntnisse in Web3.js für die Blockchain-Integration, einschließlich DEX-Plattformentwicklung und Wallet-Konnektivität.</p><p>Ich freue mich auf die Zusammenarbeit <b>mit Ihnen!</b></p>"},
+                        "ja": {"text": "<p>私はフルスタックおよびEコマース開発者であり、スケーラブルでレスポンシブなWebアプリケーションの構築に豊富な経験を持っています。ShopifyやWordPressなどのプラットフォーム、およびReact Native、Swift、Flutterを使用したモバイル開発の専門知識があります。</p><p>DEXプラットフォーム開発やウォレット接続を含むブロックチェーン統合のためのWeb3.jsに精通しています。</p><p><b>あなたと</b>協力できることを楽しみにしています！</p>"}
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "testimonials",
+            "component": "ArticleTestimonials",
+            "config": {},
+            "locales": {
+                "en": {"title": "Client **testimonials**"},
+                "gr": {"title": "**Kundenreferenzen**"},
+                "ja": {"title": "クライアントの**証言**"}
+            },
+
+            "items": [
+                {
+                    "value": "Daniel Medrano",
+                    "links": [
+                        {"href": "https://linkedin.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/client-1.png",
+                        "fa": "fa-solid fa-user",
+                        "faColors": null
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Owner of <b>Fitvibes</b>",
+                            "text": "**Yamada** is the most talent developer I've ever met. Fast and impressive result, everything is PERFECT!"
+                        },
+                        "gr": {
+                            "info": "Inhaber von <b>Fitvibes</b>",
+                            "text": "**Yamada** ist der talentierteste Entwickler, den ich je getroffen habe. Schnelles und beeindruckendes Ergebnis, alles ist PERFEKT!"
+                        },
+                        "ja": {
+                            "info": "<b>Fitvibes</b> のオーナー",
+                            "text": "**山田**は私が今まで出会った中で最も才能のある開発者です。結果は迅速で印象的で、すべてが完璧です!"
+                        }
+                    }
+                },
+
+                {
+                    "value": "Dobi Frances",
+                    "links": [
+                        {"href": "https://github.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/client-2.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "PM at <b>Rave Digital</b>",
+                            "text": "**Yamada Fujio** stands out for his collaboration and communication skills. He enhanced our workflow with his attention to detail and commitment to quality."
+                        },
+                        "gr": {
+                            "info": "PM bei <b>Rave Digital</b>",
+                            "text": "**Yamada Fujio** zeichnet sich durch seine Teamfähigkeit und seine Kommunikationsfähigkeiten aus. Er hat unseren Workflow durch seine Liebe zum Detail und sein Engagement für Qualität verbessert."
+                        },
+                        "ja": {
+                            "info": "<b>Rave Digital</b> の PM",
+                            "text": "**山田富士夫** は、コラボレーションとコミュニケーションのスキルで際立っています。細部へのこだわりと品質へのこだわりで、私たちのワークフローを強化してくれました。"
+                        }
+                    }
+                },
+
+                {
+                    "value": "Jeff Lundstrom",
+                    "links": [
+                        {"href": null}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/client-3.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "CTO of <b>Rising Tide Software</b>",
+                            "text": "**Yamada** is an exceptional developer. His quick grasp of project requirements and timely delivery significantly advanced our timelines. A true asset to any team!"
+                        },
+                        "gr": {
+                            "info": "CTO von <b>Rising Tide Software</b>",
+                            "text": "**Yamada** ist ein außergewöhnlicher Entwickler. Sein schnelles Erfassen der Projektanforderungen und seine pünktliche Lieferung haben unsere Zeitpläne erheblich verbessert. Eine echte Bereicherung!"
+                        },
+                        "ja": {
+                            "info": "<b>Rising Tide Software</b> の CTO",
+                            "text": "**Yamada** は優れた開発者です。プロジェクトの要件を素早く把握し、タイムリーに納品してくれたおかげで、スケジュールが大幅に短縮されました。どのチームにとっても真の資産です!"
+                        }
+                    }
+                },
+
+                {
+                    "value": "Chris Bacon",
+                    "links": [
+                        {"href": "https://dribbble.com"}
+                    ],
+                    "icon": {
+                        "img": "images/pictures/client-4.png",
+                        "fa": null,
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "info": "Lead developer at <b>TripActions</b>",
+                            "text": "**Yamada**'s contributions have been instrumental in driving our projects forward. His ability to adapt to new technologies quickly."
+                        },
+                        "gr": {
+                            "info": "Leitender Entwickler bei <b>TripActions</b>",
+                            "text": "**Yamada**s Beiträge waren entscheidend für die Weiterentwicklung unserer Projekte. Seine Fähigkeit, sich schnell an neue Technologien anzupassen."
+                        },
+                        "ja": {
+                            "info": "<b>TripActions</b> の主任開発者",
+                            "text": "**山田富士夫**の貢献は、私たちのプロジェクトを前進させる上で重要な役割を果たしました。新しいテクノロジーに素早く適応する彼の能力と。"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "interests",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Personal **interests**"},
+                "gr": { "title": "Persönliche **Interessen**" },
+                "ja": { "title": "個人的な**興味** " }
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-guitar",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Playing guitar",
+                            "info": "Exploring different genres and improving my skills."
+                        },
+                        "gr": {
+                            "title": "Gitarre spielen",
+                            "info": "Verschiedene Genres erkunden und meine Fähigkeiten verbessern."
+                        },
+                        "ja": {
+                            "title": "ギターを弾く",
+                            "info": "さまざまなジャンルを探求し、スキルを向上させます。"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-chart-line",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Investing",
+                            "info": "Learning the basics of stocks and personal finance."
+                        },
+                        "gr": {
+                            "title": "Investieren",
+                            "info": "Die Grundlagen von Aktien und persönlichen Finanzen lernen."
+                        },
+                        "ja": {
+                            "title": "投資",
+                            "info": "株式と個人金融の基礎を学ぶ。"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-pencil-alt",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "UX design",
+                            "info": "Studying user experience principles."
+                        },
+                        "gr": {
+                            "title": "UX-Design",
+                            "info": "Grundsätze der Benutzererfahrung studieren."
+                        },
+                        "ja": {
+                            "title": "UX デザイン",
+                            "info": "ユーザー エクスペリエンスの原則を学ぶ。"
+                        }
+                    }
+                },
+
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-camera-retro",
+                        "faColors": null
+                    },
+                    "value": null,
+                    "locales": {
+                        "en": {
+                            "title": "Photo editing",
+                            "info": "Enhancing photos through creative editing techniques."
+                        },
+                        "gr": {
+                            "title": "Fotobearbeitung",
+                            "info": "Fotos durch kreative Bearbeitungstechniken verbessern."
+                        },
+                        "ja": {
+                            "title": "写真編集",
+                            "info": "クリエイティブな編集テクニックで写真の質を高めます。"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

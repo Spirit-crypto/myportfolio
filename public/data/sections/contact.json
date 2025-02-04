@@ -1,0 +1,141 @@
+{
+    "locales": {
+        "en": {
+            "title": "Contact",
+            "title_long_prefix": "Don't hesitate to",
+            "title_long": "**Contact** Me"
+        },
+
+        "gr": {
+            "title": "Kontakt",
+            "title_long_prefix": "Zögern Sie nicht",
+            "title_long": "**Kontaktieren Sie mich**"
+        },
+
+        "ja": {
+            "title": "お問い合わせ",
+            "title_long_prefix": "お気軽にお問い合わせください",
+            "title_long": "**お問い合わせ**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "contact_form",
+            "component": "ArticleContactForm",
+            "config": {},
+            "locales": {
+                "en": {"title": "Send me a **message**"},
+                "gr": {"title": "Senden Sie mir eine **Nachricht**"},
+                "ja": {"title": "**メッセージ**を送ってください"}
+            },
+
+            "items": null
+        },
+
+        {
+            "id": "contact_list",
+            "component": "ArticleGrid",
+            "config": {
+                "format": "grid"
+            },
+            "locales": {
+                "en": {"title": "Or if you **prefer**..."},
+                "gr": {"title": "Oder wenn Sie **es vorziehen**..."},
+                "ja": {"title": "または、**ご希望の場合**..."}
+            },
+
+            "items": [
+                {
+                    "value": "+1 (214) 329-1521",
+                    "links": [
+                        {"href": "tel:12143291521"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-phone",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "gr": {"title": "Telefon"},
+                        "ja": {"title": "電話"}
+                    }
+                },
+
+                {
+                    "value": "yamadaf146@gmail.com",
+                    "links": [
+                        {"href": "yamadaf146@gmail.com"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-envelope",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "E-mail"}
+                    }
+                },
+                {
+                    "value": "@yamadaf146",
+                    "links": [
+                        {"href": "https://t.me/yamadaf146"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-telegram",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Telegram"}
+                    }
+                },
+                {
+                    "value": "@yamadaf146",
+                    "links": [
+                        {"href": "https://discord.gg/Q8cj6ucB"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-discord",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Discord"}
+                    }
+                },
+                {
+                    "value": "Yamada Fujio",
+                    "links": [
+                        {"href": "https://m.facebook.com/Yamadafujio1/"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-facebook",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Facebook"}
+                    }
+                },
+
+                {
+                    "value": "@yamadafujio98",
+                    "links": [
+                        {"href": "https://x.com/yamadafujio98"}
+                    ],
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-twitter",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {"title": "Twitter"}
+                    }
+                }
+                
+            ]
+        }
+    ]
+}

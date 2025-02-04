@@ -1,0 +1,554 @@
+{
+    "locales": {
+        "en": {
+            "title": "Portfolio",
+            "title_long_prefix": "Take a look at",
+            "title_long": "My **Portfolio**"
+        },
+
+        "gr": {
+            "title": "Portfolio",
+            "title_long_prefix": "Schauen Sie sich an",
+            "title_long": "Mein **Portfolio**"
+        },
+
+        "ja": {
+            "title": "ポートフォリオ",
+            "title_long_prefix": "ご覧ください",
+            "title_long": "私の**ポートフォリオ**"
+        }
+    },
+
+    "articles": [
+        {
+            "id": "portfolio",
+            "component": "ArticlePortfolio",
+            "config": {},
+            "locales": {},
+
+            "categories": [
+                {
+                    "id": "websites",
+                    "locales": {
+                        "en": {"singular": "Website", "plural": "Web"},
+                        "gr": {"singular": "Webseite", "plural": "Web"},
+                        "ja": {"singular": "Webサイト", "plural": "Web"}
+                    }
+                },
+                {
+                    "id": "apps",
+                    "locales": {
+                        "en": {"singular": "App", "plural": "Apps"},
+                        "gr": {"singular": "App", "plural": "Apps"},
+                        "ja": {"singular": "App", "plural": "Apps"}
+                    }
+                },
+                {
+                    "id": "cms",
+                    "locales": {
+                        "en": {"singular": "CMS", "plural": "CMS"},
+                        "gr": {"singular": "CMS", "plural": "CMS"},
+                        "ja": {"singular": "CMS", "plural": "CMS"}
+                    }
+                }
+            ],
+
+            "items": [
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/projects/Web/project1-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/FitvibesGym"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://fitvibesgym.com/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Web/project1-1.png",
+                                "images/pictures/projects/Web/project1-2.png",
+                                "images/pictures/projects/Web/project1-3.png",
+                                "images/pictures/projects/Web/project1-4.png",
+                                "images/pictures/projects/Web/project1-5.png",
+                                "images/pictures/projects/Web/project1-6.png",
+                                "images/pictures/projects/Web/project1-7.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "FitvibesGym",
+                            "text": "This project is a platform for a Mexico Gym so that users can book and make their gym schedules.",
+                            "tags": ["Next.js", "REST", "Laravel", "typescript", "prisma"]
+                        },
+                        "gr": {
+                            "title": "FitvibesGym",
+                            "text": "Dieses Projekt ist eine Plattform für ein mexikanisches Fitnessstudio, auf der Benutzer ihre Trainingspläne buchen und erstellen können.",
+                            "tags": ["Next.js", "REST", "Laravel", "typescript", "prisma"]
+                        },
+                        "ja": {
+                            "title": "FitvibesGym",
+                            "text": "このプロジェクトは、ユーザーがジムのスケジュールを予約したり作成したりできるメキシコのジムのプラットフォームです。",
+                            "tags": ["Next.js", "REST", "Laravel", "typescript", "prisma"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/projects/Web/project2-logo.jpg",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/Typescript-ECommerce"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://cute-buddy.netlify.app/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Web/project2-1.png",
+                                "images/pictures/projects/Web/project2-2.png",
+                                "images/pictures/projects/Web/project2-3.png",
+                                "images/pictures/projects/Web/project2-4.png",
+                                "images/pictures/projects/Web/project2-5.png",
+                                "images/pictures/projects/Web/project2-6.png"
+                            ]
+                        }
+                    },
+                    
+                    "locales": {
+                        "en": {
+                            "title": "Cute Buddy",
+                            "text": "This project is a Ecommerce Website that offer well priced, high quality branded baby products imported from Japan, Europe and USA. All items are in limited quantity.",
+                            "tags": ["React.js", "GraphQL", "typescript", "Ecommerce"]
+                        },
+                        "gr": {
+                            "title": "Cute Buddy",
+                            "text": "Dieses Projekt ist eine E-Commerce-Website, die preisgünstige, hochwertige Markenbabyprodukte aus Japan, Europa und den USA anbietet. Alle Artikel sind nur in begrenzter Menge erhältlich.",
+                            "tags": ["React.js", "GraphQL", "typescript", "Ecommerce"]
+                        },
+                        "ja": {
+                            "title": "Cute Buddy",
+                            "text": "このプロジェクトは、日本、ヨーロッパ、米国から輸入した、手頃な価格で高品質のブランドベビー用品を提供する E コマース ウェブサイトです。すべてのアイテムは数量限定です。",
+                            "tags": ["React.js", "GraphQL", "typescript", "Ecommerce"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/projects/App/Mobile/project7-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/Dead-mosquito-ReactNative"}
+                    ],
+                    
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/projects/App/Mobile/project7-1.png",
+                                "images/pictures/projects/App/Mobile/project7-2.png",
+                                "images/pictures/projects/App/Mobile/project7-3.png",
+                                "images/pictures/projects/App/Mobile/project7-4.png",
+                                "images/pictures/projects/App/Mobile/project7-5.png",
+                                "images/pictures/projects/App/Mobile/project7-6.png",
+                                "images/pictures/projects/App/Mobile/project7-7.png",
+                                "images/pictures/projects/App/Mobile/project7-8.png",
+                                "images/pictures/projects/App/Mobile/project7-9.png",
+                                "images/pictures/projects/App/Mobile/project7-10.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Dead Mosquito",
+                            "text": "<b>React-Native</b> Mobile App for many of customer's yard.",
+                            "tags": ["React-Native", "REST", "typescript"]
+                        },
+                        "gr": {
+                            "title": "Tote Mücke",
+                            "text": "<b>React-Native</b> Mobile App für viele Kundenhöfe.",
+                            "tags": ["React-Native", "REST", "typescript"]
+                        },
+                        "ja": {
+                            "title": "Dead Mosquito",
+                            "text": "多くの顧客の庭向けの<b>React-Native</b>モバイル アプリ。",
+                            "tags": ["React-Native", "REST", "typescript"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/projects/Web/project5-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/Resto-React"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://manisha-resto-ui-ux.netlify.app/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Web/project5-1.png",
+                                "images/pictures/projects/Web/project5-2.png",
+                                "images/pictures/projects/Web/project5-3.png",
+                                "images/pictures/projects/Web/project5-4.png",
+                                "images/pictures/projects/Web/project5-5.png",
+                                "images/pictures/projects/Web/project5-6.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Manisha Restaurant",
+                            "text": "Manisha Restaurant Website built with React.js. Modern designed and 100% responsive designed.",
+                            "tags": ["React.js", "MongoDB", "Netlify"]
+                        },
+                        "gr": {
+                            "title": "Manisha Restaurant",
+                            "text": "Manisha Restaurant-Website mit React.js erstellt. Modernes Design und 100 % responsives Design.",
+                            "tags": ["React.js", "MongoDB", "Netlify"]
+                            },
+                        "ja": {
+                            "title": "Manisha Restaurant",
+                            "text": "Manisha Restaurant の Web サイトは React.js で構築されています。モダンなデザインで、100% レスポンシブなデザインです。",
+                            "tags": ["React.js", "MongoDB", "Netlify"]
+                        }
+                    }
+                },
+
+                {
+                    "categoryId": "cms",
+                    "icon": {
+                        "img": "images/pictures/projects/Ecommerce/3(wordpress)/wordpress-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://www.yolke.co.uk/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Ecommerce/3(wordpress)/1.png",
+                                "images/pictures/projects/Ecommerce/3(wordpress)/2.png",
+                                "images/pictures/projects/Ecommerce/3(wordpress)/3.png",
+                                "images/pictures/projects/Ecommerce/3(wordpress)/4.png",
+                                "images/pictures/projects/Ecommerce/3(wordpress)/5.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Yolke online Store",
+                            "text": "Clothing Store platform built in Wordpress.",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        },
+                        "gr": {
+                            "title": "Yolke Online-Shop",
+                            "text": "Bekleidungsshop-Plattform in Wordpress erstellt.",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        },
+                        "ja": {
+                            "title": "Yolke オンライン ストア",
+                            "text": "Wordpress で構築された衣料品ストア プラットフォーム。",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "cms",
+                    "icon": {
+                        "img": "images/pictures/projects/Ecommerce/1(shopify)/shopify-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://mightyskins.com/"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Ecommerce/1(shopify)/1.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/2.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/3.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/4.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/5.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/6.png",
+                                "images/pictures/projects/Ecommerce/1(shopify)/7.png"
+                            ]
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Mighty Skins",
+                            "text": "Vinyl Skins and Wraps Shop and create your own vinyl skins and decals for phones, laptops, VR gear, vapes, drones, tumblers, smart home devices",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        },
+                        "gr": {
+                            "title": "Mighty Skins",
+                            "text": "Vinyl Skins und Wraps Kaufen und erstellen Sie Ihre eigenen Vinyl Skins und Aufkleber für Telefone, Laptops, VR-Ausrüstung, Vapes, Drohnen, Becher, Smart-Home-Geräte",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        },
+                        "ja": {
+                            "title": "Mighty Skins",
+                            "text": "ビニールスキンとラップ 携帯電話、ノートパソコン、VR ギア、電子タバコ、ドローン、タンブラー、スマートホーム デバイス用の独自のビニールスキンとデカールを購入して作成します",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        }
+                    }
+                },
+                
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/projects/App/bot/project3.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/Telegram-TokenLaunchPad-Bot"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://t.me/TalentX_TokenLaunchPad_bot"}
+                    ],
+                    
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+                    
+                    "locales": {
+                        "en": {
+                            "title": "Telegram TokenLaunchPad bot",
+                            "text": "The Telegram bot for Token Launchpad allows users to create, mint, burn their own new tokens, and more.",
+                            "tags": ["Javascript", "SDK", "Telegarm-bot-api"]
+                        },
+                        "gr": {
+                            "title": "Telegram TokenLaunchPad bot",
+                            "text": "Mit dem Telegram-Bot für Token Launchpad können Benutzer ihre eigenen neuen Token erstellen, prägen, verbrennen und mehr.",
+                            "tags": ["Javascript", "SDK", "Telegarm-bot-api"]
+                        },
+                        "ja": {
+                            "title": "Telegram TokenLaunchPad bot",
+                            "text": "Token Launchpad の Telegram ボットを使用すると、ユーザーは独自の新しいトークンを作成、発行、バーンなどを行うことができます。",
+                            "tags": ["Javascript", "SDK", "Telegarm-bot-api"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "websites",
+                    "icon": {
+                        "img": "images/pictures/projects/Web/project6-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/Beach-Resort-React"},
+                        {"faIcon": "fa-solid fa-link", "href": "https://mukul-breach-resort-project.netlify.app"}
+                    ],
+                    
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Web/project6-1.png",
+                                "images/pictures/projects/Web/project6-2.png",
+                                "images/pictures/projects/Web/project6-3.png",
+                                "images/pictures/projects/Web/project6-4.png"
+                            ]
+                        }
+                    },
+                    
+                    "locales": {
+                        "en": {
+                            "title": "Beach Resort",
+                            "text": "This React.js project is a platform for Hotel Room Booking.",
+                            "tags": ["React.js", "REST", "typescript"]
+                        },
+                        "gr": {
+                            "title": "Beach Resort",
+                            "text": "Dieses React.js-Projekt ist eine Plattform zur Hotelzimmerbuchung.",
+                            "tags": ["Next.js", "REST", "typescript"]
+                        },
+                        "ja": {
+                            "title": "Beach Resort",
+                            "text": "この React.js プロジェクトは、ホテルの部屋を予約するためのプラットフォームです。",
+                            "tags": ["Next.js", "REST", "typescript"]
+                        }
+                    }
+                },
+                
+                {
+                    "categoryId": "cms",
+                    "icon": {
+                        "img": "images/pictures/projects/Ecommerce/2(shopify)/logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "http://www.volumon.com/"}
+                    ],
+                
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Ecommerce/2(shopify)/1.png",
+                                "images/pictures/projects/Ecommerce/2(shopify)/2.png",
+                                "images/pictures/projects/Ecommerce/2(shopify)/3.png",
+                                "images/pictures/projects/Ecommerce/2(shopify)/4.png",
+                                "images/pictures/projects/Ecommerce/2(shopify)/5.png",
+                                "images/pictures/projects/Ecommerce/2(shopify)/6.png"
+                            ]
+                        }
+                    },
+                
+                    "locales": {
+                        "en": {
+                            "title": "VolumOn",
+                            "text": "VolumON are hair care specialists (shopify platform) based in the UK, with a variety of hair products, one of which is the hair building fibres.",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        },
+                        "gr": {
+                            "title": "Mighty Skins",
+                            "text": "VolumON ist ein Haarpflegespezialist (Shopify-Plattform) mit Sitz in Großbritannien und einem breiten Angebot an Haarprodukten, darunter auch Haaraufbaufasern.",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        },
+                        "ja": {
+                            "title": "Mighty Skins",
+                            "text": "VolumON は英国を拠点とするヘアケア専門店 (Shopify プラットフォーム) で、ヘアビルディング ファイバーを含むさまざまなヘア製品を取り扱っています。",
+                            "tags": ["Shopify", "Javascript", "CSS"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "apps",
+                    "icon": {
+                        "img": "images/pictures/projects/App/electron/project4-logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    
+                    "links": [
+                        {"faIcon": "fa-brands fa-github", "href": "https://github.com/phoenixdev0117/One-Copy-Electron"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "9:16",
+                            "images": [
+                                "images/pictures/projects/App/electron/project4-1.png",
+                                "images/pictures/projects/App/electron/project4-2.png"
+                            ]
+                        }
+                    },
+                    
+                    "locales": {
+                        "en": {
+                            "title": "One Copy",
+                            "text": "This is a desktop application that save all information and paste them whenever you need them.",
+                            "tags": ["Javascript", "Electron.js", "SCSS"]
+                        },
+                        "gr": {
+                            "title": "One Copy",
+                            "text": "Dies ist eine Desktopanwendung, die alle Informationen speichert und sie bei Bedarf einfügt.",
+                            "tags": ["Javascript", "Electron.js", "SCSS"]
+                        },
+                        "ja": {
+                            "title": "One Copy",
+                            "text": "これは、すべての情報を保存し、必要なときにいつでも貼り付けることができるデスクトップ アプリケーションです。",
+                            "tags": ["Javascript", "Electron.js", "SCSS"]
+                        }
+                    }
+                },
+                {
+                    "categoryId": "cms",
+                    "icon": {
+                        "img": "images/pictures/projects/Ecommerce/4(wordpress)/logo.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://schedugr.am/"}
+                    ],
+                
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": "16:9",
+                            "images": [
+                                "images/pictures/projects/Ecommerce/4(wordpress)/1.png",
+                                "images/pictures/projects/Ecommerce/4(wordpress)/2.png",
+                                "images/pictures/projects/Ecommerce/4(wordpress)/3.png",
+                                "images/pictures/projects/Ecommerce/4(wordpress)/4.png",
+                                "images/pictures/projects/Ecommerce/4(wordpress)/5.png"
+                            ]
+                        }
+                    },
+                
+                    "locales": {
+                        "en": {
+                            "title": "Sked Social",
+                            "text": "Sked is a Social Media Management Platform that can help social media teams get things done faster, share feedback easier, and build content strategies that just work.",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        },
+                        "gr": {
+                            "title": "Sked Social",
+                            "text": "Sked ist eine Social-Media-Management-Plattform, die Social-Media-Teams dabei helfen kann, Aufgaben schneller zu erledigen, Feedback einfacher auszutauschen und Content-Strategien zu entwickeln, die einfach funktionieren.",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        },
+                        "ja": {
+                            "title": "Sked Social",
+                            "text": "Sked は、ソーシャル メディア チームが作業をより迅速に進め、フィードバックをより簡単に共有し、効果的なコンテンツ戦略を構築するのに役立つソーシャル メディア管理プラットフォームです。",
+                            "tags": ["Wordpress", "PHP", "CSS"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
