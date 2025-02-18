@@ -151,74 +151,7 @@
             },
 
             "items": [
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-html5",
-                        "faColors": {"bg": "#E34F26", "fill": "#EEE"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "02/15/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "HTML5",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-css3",
-                        "faColors": {"bg": "#1572B6", "fill": "#EEE"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "02/15/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "CSS3",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-js",
-                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "02/15/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "JavaScript ES6+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-sass",
-                        "faColors": {"bg": "#c5659a", "fill": "#fff"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "02/15/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Sass",
-                            "info": null
-                        }
-                    }
-                },
+                
                 {
                     "icon": {
                         "img": null,
@@ -242,13 +175,30 @@
                         "fa": "fa-brands fa-vuejs",
                         "faColors": {"bg": "#4FC08D", "fill": "#111"}
                     },
-                    "value": 70,
+                    "value": 80,
                     "dates": {
                         "start": "08/30/2022"
                     },
                     "locales": {
                         "en": {
                             "title": "Vue.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-n",
+                        "faColors": {"bg": "#000", "fill": "#fff"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "08/30/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Next.js",
                             "info": null
                         }
                     }
@@ -273,6 +223,74 @@
                 {
                     "icon": {
                         "img": null,
+                        "fa": "fa-solid fa-circle-nodes",
+                        "faColors": {"bg": "#fff", "fill": "#111"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Three.js",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-atom",
+                        "faColors": {"bg": "#fff", "fill": "#111"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Redux/Jotai/Zustand",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-nfc-symbol",
+                        "faColors": {"bg": "#fff", "fill": "#ec3800"}
+                    },
+                    "value": 60,
+                    "dates": {
+                        "start": "08/30/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Svelte",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-water",
+                        "faColors": {"bg": "#fff", "fill": "#51b7f5"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "02/10/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Tailwind CSS",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
                         "fa": "fa-brands fa-bootstrap",
                         "faColors": {"bg": "#7952B3", "fill": "#EEE"}
                     },
@@ -283,6 +301,91 @@
                     "locales": {
                         "en": {
                             "title": "Bootstrap",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-sass",
+                        "faColors": {"bg": "#c5659a", "fill": "#fff"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Sass",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-palette",
+                        "faColors": {"bg": "#fff", "fill": "#51b7f5"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Material UI",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-cubes",
+                        "faColors": {"bg": "#93cff5", "fill": "#3175bc"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "02/10/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Webpack",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-drafting-compass",
+                        "faColors": {"bg": "#fff", "fill": "#9957f7"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Vite",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-box",
+                        "faColors": {"bg": "#fff", "fill": "#c19665"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "02/15/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Parcel",
                             "info": null
                         }
                     }
@@ -313,7 +416,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Node.js",
+                            "title": "Node.js/Express/Nest",
                             "info": null
                         }
                     }
@@ -321,16 +424,16 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-java",
-                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                        "fa": "fa-brands fa-laravel",
+                        "faColors": {"bg": "#fff", "fill": "#ea240f"}
                     },
-                    "value": 90,
+                    "value": 100,
                     "dates": {
-                        "start": "03/10/2019"
+                        "start": "09/01/2018"
                     },
                     "locales": {
                         "en": {
-                            "title": "Java 11+",
+                            "title": "Laravel",
                             "info": null
                         }
                     }
@@ -347,7 +450,41 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Python 3.x",
+                            "title": "Flask & Django",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-golang",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GoLang",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-java",
+                        "faColors": {"bg": "#007396", "fill": "#EEE"}
+                    },
+                    "value": 90,
+                    "dates": {
+                        "start": "03/10/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Spring Boot",
                             "info": null
                         }
                     }
@@ -369,10 +506,28 @@
                         }
                     }
                 },
+                
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-solid fa-database",
+                        "fa": "fa-brands fa-php",
+                        "faColors": {"bg": "#FFD700", "fill": "#111"}
+                    },
+                    "value": 100,
+                    "dates": {
+                        "start": "09/01/2018"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "PHP 8.0+",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-server",
                         "faColors": {"bg": "#4479A1", "fill": "#EEE"}
                     },
                     "value": 90,
@@ -381,7 +536,187 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "MySQL",
+                            "title": "MySQL/PostgreSQL",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-leaf",
+                        "faColors": {"bg": "#041e2c", "fill": "#39b750"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "05/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MongoDB",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-diagram-project",
+                        "faColors": {"bg": "#fff", "fill": "#c82f9d"}
+                    },
+                    "value": 50,
+                    "dates": {
+                        "start": "05/20/2024"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "GraphQL/Prisma",
+                            "info": null
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": "CMS",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "CMS"},
+                "gr": {"title": "CMS"},
+                "ja": {"title": "CMS"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-wordpress",
+                        "faColors": {"bg": "#fff", "fill": "#425aed"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Wordpress",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-shopify",
+                        "faColors": {"bg": "#fff", "fill": "#98bf3d"}
+                    },
+                    "value": 80,
+                    "dates": {
+                        "start": "04/15/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Shopify",
+                            "info": null
+                        }
+                    }
+                }
+                
+                
+            ]
+        },
+        {
+            "id": "Mobile",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Moblie"},
+                "gr": {"title": "Mobile"},
+                "ja": {"title": "携帯"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-react",
+                        "faColors": {"bg": "#20242a", "fill": "#75dafb"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "React Native",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-swift",
+                        "faColors": {"bg": "#fff", "fill": "#e74f31"}
+                    },
+                    "value": 70,
+                    "dates": {
+                        "start": "04/15/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Swift",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-flutter",
+                        "faColors": {"bg": "#f1f3f4", "fill": "#61d2ff"}
+                    },
+                    "value": 65,
+                    "dates": {
+                        "start": "04/15/2021"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Flutter",
+                            "info": null
+                        }
+                    }
+                }
+                
+                
+            ]
+        },
+        {
+            "id": "Others",
+            "component": "ArticleList",
+            "config": {},
+            "locales": {
+                "en": {"title": "Others"},
+                "gr": {"title": "Sonstiges"},
+                "ja": {"title": "その他"}
+            },
+
+            "items": [
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-jenkins",
+                        "faColors": {"bg": "#e6ceb0", "fill": "#c5332d"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Jenkins",
                             "info": null
                         }
                     }
@@ -406,46 +741,47 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-php",
-                        "faColors": {"bg": "#FFD700", "fill": "#111"}
-                    },
-                    "value": 100,
-                    "dates": {
-                        "start": "09/01/2018"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "PHP 8.0+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-solid fa-server",
-                        "faColors": {"bg": "#47A248", "fill": "#EEE"}
-                    },
-                    "value": 50,
-                    "dates": {
-                        "start": "05/20/2024"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "MongoDB",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-git",
-                        "faColors": {"bg": "#F05032", "fill": "#111"}
+                        "fa": "fa-brands fa-aws",
+                        "faColors": {"bg": "#fff", "fill": "#f79300"}
                     },
                     "value": 95,
                     "dates": {
-                        "start": "01/01/2018"
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "AWS/Azure/GCP",
+                            "info": null
+                        }
+                    }
+                },
+                
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-vial",
+                        "faColors": {"bg": "#f1f3f4", "fill": "#8f3452"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/15/2019"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Jest/Cypress/Postman",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-git-alt",
+                        "faColors": {"bg": "#fff", "fill": "#e04c2b"}
+                    },
+                    "value": 95,
+                    "dates": {
+                        "start": "01/15/2019"
                     },
                     "locales": {
                         "en": {
@@ -454,9 +790,9 @@
                         }
                     }
                 }
+                
             ]
         },
-
         
 
         {

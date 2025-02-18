@@ -39,22 +39,24 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Junior **Full-Stack** Developer",
+                            "title": "Junior **Full-Stack** | **Mobile** Developer",
                             "info": "TripActions",
-                            "text": "<ul><li>Developed scalable web applications using React.js and Nodes, focusing on enhancing user experience and performance. </li><li>Built RESTful APIs for seamless integration with third-party services and internal systems. </li><li>Collaborated with designers and stakeholders to deliver responsive and user-friendly interfaces.</li><li>Implemented CI/CD pipelines, improving deployment efficiency by 40%.</li><li>Managed databases using MongoDB and PostgreSQL, ensuring data integrity and capability.</li></ul>",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "text": "<ul><li>Developed scalable web applications using React.js, Vue.js, Angular.js and Express.js, Nest.js, Laravel, Django, Flask focusing on enhancing user experience and performance.</li><li>Collaborated with designers and stakeholders to deliver responsive and user-friendly interfaces, employing tools like Figma for design collaboration and prototyping.</li><li>Implemented CI/CD pipelines using Jenkins and GitHub Actions, improving deployment efficiency by 40% through automated testing and deployment processes.</li><li>Managed databases using MongoDB and PostgreSQL, ensuring data integrity and capability through schema design and indexing strategies.</li><li>Built cross-platform mobile applications using React Native and Swift, targeting e-commerce and utility platforms, with successful deployments to the App Store and Google Play</li></ul>",
+                            "tags": ["React.js","Vue.js", "PostgreSQL", "Laravel","Flask", "Swift"]
                         },
                         "gr": {
-                            "title": "Junior **Full-Stack**-Entwickler",
+                            "title": "Junior **Full-Stack** | **Mobile** Developer",
                             "info": "TripActions",
-                            "text": "<ul><li>Entwickelte skalierbare Webanwendungen mit React.js und Nodes, mit Schwerpunkt auf der Verbesserung der Benutzererfahrung und Leistung. </li><li>Erstellte RESTful-APIs für die nahtlose Integration mit Diensten von Drittanbietern und internen Systemen. </li><li>Arbeitete mit Designern und Stakeholdern zusammen, um reaktionsschnelle und benutzerfreundliche Schnittstellen bereitzustellen.</li><li>Implementierte CI/CD-Pipelines und verbesserte die Bereitstellungseffizienz um 40 %.</li><li>Verwaltete Datenbanken mit MongoDB und PostgreSQL und stellte Datenintegrität und -fähigkeit sicher.</li></ul>",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "text": "<ul><li>Entwickelte skalierbare Webanwendungen mit React.js, Vue.js, Angular.js und Express.js, Nest.js, Laravel, Django, Flask mit dem Schwerpunkt auf der Verbesserung der Benutzererfahrung und -leistung.</li><li>Arbeitete mit Designern und Stakeholdern zusammen, um reaktionsschnelle und benutzerfreundliche Schnittstellen bereitzustellen, und setzte Tools wie Figma für die Designzusammenarbeit und das Prototyping ein.</li><li>Implementierte CI/CD-Pipelines mit Jenkins und GitHub Actions und verbesserte die Bereitstellungseffizienz durch automatisierte Test- und Bereitstellungsprozesse um 40 %.</li><li>Verwaltete Datenbanken mit MongoDB und PostgreSQL und stellte durch Schemadesign und Indizierungsstrategien Datenintegrität und -fähigkeit sicher.</li><li>Erstellte plattformübergreifende mobile Anwendungen mit React Native und Swift für E-Commerce- und Utility-Plattformen mit erfolgreichen Bereitstellungen im App Store und bei Google Spielen</li></ul>",
+                            "tags": ["React.js","Vue.js", "PostgreSQL", "Laravel","Flask", "Swift"]
+
                         },
                         "ja": {
-                            "title": "ジュニア **フルスタック** 開発者",
+                            "title": "ジュニア **フルスタック** | **モバイル** 開発者",
                             "info": "TripActions",
-                            "text": "<ul><li>React.js と Nodes を使用してスケーラブルな Web アプリケーションを開発し、ユーザー エクスペリエンスとパフォーマンスの向上に重点を置きました。</li><li>サードパーティのサービスや内部システムとのシームレスな統合のために RESTful API を構築しました。</li><li>デザイナーや関係者と協力して、応答性に優れたユーザー フレンドリーなインターフェイスを提供しました。</li><li>CI/CD パイプラインを実装し、展開効率を 40% 向上しました。</li><li>MongoDB と PostgreSQL を使用してデータベースを管理し、データの整合性と機能を確保しました。</li></ul>",
-                            "tags": ["PHP", "MySQL", "Laravel"]
+                            "text": "<ul><li>React.js、Vue.js、Angular.js、Express.js、Nest.js、Laravel、Django、Flask を使用して、ユーザー エクスペリエンスとパフォーマンスの向上に重点を置いたスケーラブルな Web アプリケーションを開発しました。</li><li>デザイナーや関係者と協力して、Figma などのツールをデザインのコラボレーションとプロトタイピングに使用し、レスポンシブでユーザー フレンドリーなインターフェイスを提供しました。</li><li>Jenkins と GitHub Actions を使用して CI/CD パイプラインを実装し、自動化されたテストとデプロイメント プロセスによってデプロイメント効率を 40% 向上しました。</li><li>MongoDB と PostgreSQL を使用してデータベースを管理し、スキーマ設計とインデックス戦略を通じてデータの整合性と機能を確保しました。</li><li>React Native と Swift を使用して、e コマースとユーティリティ プラットフォームをターゲットにしたクロスプラットフォーム モバイル アプリケーションを構築し、 App Store と Google Play</li></ul>",
+                            "tags": ["React.js","Vue.js", "PostgreSQL", "Laravel","Flask", "Swift"]
+
                         }
                     }
                 },
@@ -72,20 +74,20 @@
                         "en": {
                             "title": "**Frontend Developer** and **Web3** Specialist",
                             "info": "Rising Tide Software",
-                            "text": "<ul><li>Attended to Developing decentralized exchange (DEX) platforms with seamless user interfaces and wallet integrations using Web3js.</li><li>Implemented wallet connectivity features, including MetaMask and Wallet Connect, to support multiple blockchain networks. </li><li>Created reusable UI components for DEX trading dashboards, improving development consistency and scalability </li><li>Conducted blockchain data analysis and integrated token price trackers via APIs. </li><li>Collaborated with backend developers to ensure secure smart contract deployment and data synchronization.</li></ul>",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
+                            "text": "<ul><li>Attended to Solana based DEX platform with seamless user interfaces and wallet integrations using Solana Web3.js for blockchain interactions.</li><li>Reduced platform development time by 30% and ensuring consistent UI across applications by creating reusable React.js components with Redux toolkit for state management and Tailwind CSS, SCSS, MUI for styling.</li><li>Implemented wallet connectivity features, including Metamask and Phantom, to support multiple blockchain networks, using solana sdk libraries like @solana/spl-token, @solana/web3.js and so on.</li><li>Conducted blockchain data analysis and integrated token price trackers via third-party APIs such as CoinGecko API and CoinMarketCap API to provide real-time market data and enhance user engagement.</li></ul>",
+                            "tags": ["Next.js", "Node.js", "Web3.js", "Docker"]
                         },
                         "gr": {
                             "title": "**Frontend-Entwickler** und **Web3**-Spezialist",
                             "info": "Rising Tide Software",
-                            "text": "<ul><li>Entwicklung von dezentralen Börsenplattformen (DEX) mit nahtlosen Benutzeroberflächen und Wallet-Integrationen unter Verwendung von Web3js.</li><li>Implementierung von Wallet-Konnektivitätsfunktionen, einschließlich MetaMask und Wallet Connect, zur Unterstützung mehrerer Blockchain-Netzwerke.</li><li>Erstellung wiederverwendbarer UI-Komponenten für DEX-Handels-Dashboards zur Verbesserung der Entwicklungskonsistenz und Skalierbarkeit.</li><li>Durchführung einer Blockchain-Datenanalyse und Integration von Token-Preis-Trackern über APIs.</li><li>Zusammenarbeit mit Backend-Entwicklern zur Gewährleistung einer sicheren Bereitstellung von Smart Contracts und Datensynchronisierung.</li></ul>",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
+                            "text": "<ul><li>Betreuung einer Solana-basierten DEX-Plattform mit nahtlosen Benutzeroberflächen und Wallet-Integrationen unter Verwendung von Solana Web3.js für Blockchain-Interaktionen.</li><li>Reduzierung der Plattformentwicklungszeit um 30 % und Sicherstellung einer konsistenten Benutzeroberfläche über alle Anwendungen hinweg durch Erstellen wiederverwendbarer React.js-Komponenten mit Redux-Toolkit für die Statusverwaltung und Tailwind CSS, SCSS, MUI für das Styling.</li><li>Implementierung von Wallet-Konnektivitätsfunktionen, einschließlich Metamask und Phantom, zur Unterstützung mehrerer Blockchain-Netzwerke unter Verwendung von Solana-SDK-Bibliotheken wie @solana/spl-token, @solana/web3.js usw.</li><li>Durchführung einer Blockchain-Datenanalyse und Integration von Token-Preis-Trackern über APIs von Drittanbietern wie CoinGecko API und CoinMarketCap API zur Bereitstellung von Marktdaten in Echtzeit und Verbesserung der Benutzerinteraktion.</li></ul>",
+                            "tags": ["Next.js", "Node.js", "Web3.js", "Docker"]
                         },
                         "ja": {
                             "title": "**フロントエンド開発者** および **Web3** スペシャリスト",
                             "info": "Rising Tide Software",
-                            "text": "<ul><li>Web3js を使用して、シームレスなユーザー インターフェイスとウォレット統合を備えた分散型取引所 (DEX) プラットフォームの開発に携わりました。</li><li>MetaMask や Wallet Connect などのウォレット接続機能を実装し、複数のブロックチェーン ネットワークをサポートしました。</li><li>DEX 取引ダッシュボードの再利用可能な UI コンポーネントを作成し、開発の一貫性とスケーラビリティを向上させました。</li><li>ブロックチェーン データ分析を実施し、API を介してトークン価格トラッカーを統合しました。</li><li>バックエンド開発者と協力して、安全なスマート コントラクトの展開とデータ同期を確保しました。</li></ul>",
-                            "tags": ["JavaScript", "React", "Node.js", "PHP", "REST", "Docker"]
+                            "text": "<ul><li>ブロックチェーン インタラクションに Solana Web3.js を使用して、シームレスなユーザー インターフェイスとウォレット統合を備えた Solana ベースの DEX プラットフォームに取り組みました。</li><li>状態管理用の Redux ツールキットとスタイリング用の Tailwind CSS、SCSS、MUI を使用して再利用可能な React.js コンポーネントを作成することで、プラットフォームの開発時間を 30% 短縮し、アプリケーション間で一貫した UI を確保しました。</li><li>@solana/spl-token、@solana/web3.js などの Solana SDK ライブラリを使用して、Metamask や Phantom などのウォレット接続機能を実装し、複数のブロックチェーン ネットワークをサポートしました。</li><li>CoinGecko API や CoinMarketCap API などのサードパーティ API を介してブロックチェーン データ分析を実施し、トークン価格トラッカーを統合して、リアルタイムの市場データを提供し、ユーザー エンゲージメントを強化しました。</li></ul>",
+                            "tags": ["Next.js", "Node.js", "Web3.js", "Docker"]
                         }
                     }
                 },
@@ -101,22 +103,22 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Senior Full stack and mobile** Developer",
+                            "title": "Senior **Full stack** and **E-commerce** Developer",
                             "info": "Rave Digital",
-                            "text": "<p>Contributed as a **Full stack** developer:</p> <ul><li>Developed and customized e-commerce stores using Shopify and WordPress, optimizing sales funnel and checkout experiences.</li><li>Led the migration of legacy systems to modern architectures, improving performance by 40%.</li><li>Created reusable React.js components for consistent UI development, reducing development time by 30%.</li><li>Managed RESTful API and GraphQL integrations for dynamic data handling.</li><li>Optimized SEO and performance metrics, improving site visibility and traffic by 25%.</li></ul><br/><p>Contributed as a **Mobile** developer:</p><ul><li>Built cross-platform mobile applications using React Native, Swift for e-commerce and utility platforms.</li><li>Deployed applications to the App Store and Google Play, achieving over 5000 downloads within the first three months.</li><li>Integrated Firebase for real-time database synchronization and push notifications.</li></ul>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "text": "<ul><li>Developed and customized e-commerce stores using Shopify (Liquid, APIs) and WordPress (Custom Themes, WooCommerce), optimizing sales funnels and checkout experiences through A/B testing and user feedback analysis.</li><li>Integrated third-party payment gateways like Stripe, PayPal, and inventory management systems like TradeGecko, Skubana to streamline business operations and improve transaction efficiency</li><li>Developed and deployed Progressive Web Apps (PWAs) to improve mobile user experiences, utilizing Workbox for service worker management and offline capabilities.</li><li>Managed RESTful API and GraphQL integrations using tools like Google Analytics and PageSpeed Insights, resulting in a 25% increase in site visibility and traffic.</li><li>Optimized SEO and performance metrics, improving site visibility and traffic by 25% through strategies like schema markup and image optimization</li></ul>",
+                            "tags": ["PostgreSQL", "Wordpress","GraphQL", "PHP", "PWAs", "SEO"]
                         },
                         "gr": {
-                            "title": "**Senior Full Stack und Mobile** Entwickler",
+                            "title": "Senior **ull Stack** und **E-Commerce** Entwickler",
                             "info": "Rave Digital",
-                            "text": "<p>Beitrag als **Full Stack** Entwickler:</p> <ul><li>Entwicklung und Anpassung von E-Commerce-Shops mit Shopify und WordPress, Optimierung von Sales Funnel und Checkout-Erlebnissen.</li><li>Leitung der Migration von Legacy-Systemen auf moderne Architekturen, Leistungssteigerung um 40 %.</li><li>Erstellung wiederverwendbarer React.js-Komponenten für konsistente UI-Entwicklung, Reduzierung der Entwicklungszeit um 30 %.</li><li>Verwaltung von RESTful API und GraphQL-Integrationen für dynamische Datenverarbeitung.</li><li>Optimierung von SEO und Leistungsmetriken, Verbesserung der Site-Sichtbarkeit und des Traffics um 25 %.</li></ul><br/><p>Beitrag als **Mobile** Entwickler:</p><ul><li>Erstellung plattformübergreifender mobiler Anwendungen mit React Native, Swift für E-Commerce- und Utility-Plattformen.</li><li>Bereitstellung von Anwendungen im App Store und Google Play, wo innerhalb der ersten drei Monate über 5000 Downloads erzielt wurden.</li><li>Integrierte Firebase für Echtzeit-Datenbanksynchronisierung und Push-Benachrichtigungen.</li></ul>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "text": "<ul><li>Entwicklung und Anpassung von E-Commerce-Shops mit Shopify (Liquid, APIs) und WordPress (Custom Themes, WooCommerce), Optimierung von Sales Funnels und Checkout-Erlebnissen durch A/B-Tests und Analyse des Benutzerfeedbacks.</li><li>Integration von Drittanbieter-Zahlungsgateways wie Stripe, PayPal und Bestandsverwaltungssysteme wie TradeGecko, Skubana zur Rationalisierung der Geschäftsabläufe und Verbesserung der Transaktionseffizienz.</li><li>Entwicklung und Bereitstellung von Progressive Web Apps (PWAs) zur Verbesserung des mobilen Benutzererlebnisses, Nutzung von Workbox für die Verwaltung von Servicemitarbeitern und Offline-Funktionen.</li><li>Verwaltung von RESTful API- und GraphQL-Integrationen mit Tools wie Google Analytics und PageSpeed ​​Insights, was zu einer 25 %igen Steigerung der Site-Sichtbarkeit und des Traffics führte.</li><li>Optimierung von SEO und Leistungsmetriken, Verbesserung der Site-Sichtbarkeit und des Traffics um 25 % durch Strategien wie Schema-Markup und Bild Optimierung</li></ul>",
+                            "tags": ["PostgreSQL", "Wordpress", "GraphQL", "PHP", "PWAs", "SEO"]
                         },
                         "ja": {
-                            "title": "**シニア フルスタックおよびモバイル** 開発者",
+                            "title": "シニア **フルスタック** および **Eコマース** 開発者",
                             "info": "Rave Digital",
-                            "text": "<p>**フルスタック** 開発者として貢献:</p> <ul><li>Shopify と WordPress を使用して e コマース ストアを開発およびカスタマイズし、セールス ファネルとチェックアウト エクスペリエンスを最適化しました。</li><li>レガシー システムから最新のアーキテクチャへの移行を主導し、パフォーマンスを 40% 向上しました。</li><li>一貫性のある UI 開発のために再利用可能な React.js コンポーネントを作成し、開発時間を 30% 短縮しました。</li><li>動的なデータ処理のために RESTful API と GraphQL の統合を管理しました。</li><li>SEO とパフォーマンス メトリックを最適化し、サイトの可視性とトラフィックを 25% 向上しました。</li></ul><br/><p>**モバイル** 開発者として貢献:</p><ul><li>e コマースおよびユーティリティ プラットフォーム向けに React Native、Swift を使用してクロスプラットフォーム モバイル アプリケーションを構築しました。</li><li>アプリケーションをデプロイしましたApp Store と Google Play にリリースされ、最初の 3 か月で 5,000 回以上のダウンロードを達成しました。</li><li>リアルタイムのデータベース同期とプッシュ通知のために Firebase を統合しました。</li></ul>",
-                            "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+                            "text": "<ul><li>Shopify (Liquid、API) と WordPress (カスタム テーマ、WooCommerce) を使用して e コマース ストアを開発およびカスタマイズし、A/B テストとユーザー フィードバック分析を通じてセールス ファネルとチェックアウト エクスペリエンスを最適化しました。</li><li>Stripe、PayPal などのサードパーティの支払いゲートウェイと TradeGecko、Skubana などの在庫管理システムを統合して、ビジネス オペレーションを合理化し、トランザクションの効率を改善しました。</li><li>Workbox を使用してサービス ワーカー管理とオフライン機能を活用し、モバイル ユーザー エクスペリエンスを向上させるためにプログレッシブ ウェブ アプリ (PWA) を開発および展開しました。</li><li>Google Analytics や PageSpeed Insights などのツールを使用して RESTful API と GraphQL の統合を管理し、サイトの可視性とトラフィックを 25% 増加させました。</li><li>SEO とパフォーマンス メトリックを最適化し、スキーマ マークアップやイメージなどの戦略を通じてサイトの可視性とトラフィックを 25% 向上させました。最適化</li></ul>",
+                            "tags": ["PostgreSQL", "Wordpress", "GraphQL", "PHP", "PWAs", "SEO"]
                         }
                     }
                 }
