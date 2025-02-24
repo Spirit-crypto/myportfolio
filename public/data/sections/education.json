@@ -40,19 +40,19 @@
                     "locales": {
                         "en": {
                             "title": "**Bachelor** in Computer Software Engineering",
-                            "info": "Osaka University",
+                            "info": "Chubu University",
                             "text": "Key Courses: Full-Stack Web Development, Data Structures, Algorithms, Mobile App Development",
                             "tags": ["Full-Stack Web Development", "Data Structures", "Algorithms", "Mobile App Development"]
                         },
                         "gr": {
                             "title": "**Bachelor** in Computer Software Engineering",
-                            "info": "Osaka University",
+                            "info": "Chubu Universität",
                             "text": "Wichtige Kurse: Full-Stack-Webentwicklung, Datenstrukturen, Algorithmen, Entwicklung mobiler Apps",
                             "tags": ["Full-Stack-Webentwicklung", "Datenstrukturen", "Algorithmen", "Entwicklung mobiler Apps"]
                             },
                         "ja": {
                             "title": "**学士** コンピュータソフトウェア工学",
-                            "info": "大阪大学",
+                            "info": "中部大学",
                             "text": "主なコース: フルスタック Web 開発、データ構造、アルゴリズム、モバイル アプリ開発",
                             "tags": ["フルスタック Web 開発", "データ構造", "アルゴリズム", "モバイル アプリ開発"]
                         }
@@ -72,19 +72,19 @@
                     "locales": {
                         "en": {
                             "title": "**Master of Science** in Software Engineering",
-                            "info": "Tokyo Institute of Technology",
+                            "info": "Nagoya Institute of Technology",
                             "text": "Key Courses: Advanced Algorithms, Cloud Computing, Data Analytics, Machine Learning",
                             "tags": ["Algorithms", "Cloud Computing", "Data Analytics", "Machine Learning"]
                         },
                         "gr": {
                             "title": "**Master of Science** in Software Engineering",
-                            "info": "Tokyo Institute of Technology",
+                            "info": "Nagoya Institut für Technologie",
                             "text": "Wichtige Kurse: Fortgeschrittene Algorithmen, Cloud Computing, Datenanalyse, maschinelles Lernen",
                             "tags": ["Algorithmen", "Cloud Computing", "Datenanalyse", "maschinelles Lernen"]
                         },
                         "ja": {
                             "title": "**ソフトウェア工学修士**",
-                            "info": "東京工業大学",
+                            "info": "名古屋工業大学",
                             "text": "主なコース: 高度なアルゴリズム、クラウド コンピューティング、データ分析、機械学習",
                             "tags": ["アルゴリズム", "クラウド コンピューティング", "データ分析", "機械学習"]
                         }
